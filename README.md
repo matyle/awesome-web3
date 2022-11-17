@@ -1,1 +1,1 @@
-# web3-awsome
+# web3-awesome
